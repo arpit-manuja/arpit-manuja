@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  @arpitmanuja000 
+- 📫 How to reach me  @arpitmanuja000@gmail.com
 
 <!---
 arpit-manuja/arpit-manuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
